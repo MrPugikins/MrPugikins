@@ -1,4 +1,4 @@
 - 👋 Hi, I’m MrPugikins
 - 👀 I’m interested in CyberSecurity, Hacking and a little GameDev
 - 💞️ I’m looking to collaborate on anything (but I doubt I really could help)
-- 📫 If you're looking to work with me then email me at mcmcaluke@icloud.com
+- 📫 If you're looking to work with me then email me at mcmaluke@icloud.com
